@@ -45,6 +45,7 @@ Before you start, make sure you have the following installed:
     Create a `.env` file in the project root and add your OpenAI API key:
     ```plaintext
     OPENAI_API_KEY=your_actual_openai_api_key_here
+    LANGCHAIN_API_KEY=your_langchain_api_key
     ```
 
 6. **Run the Streamlit app:**
