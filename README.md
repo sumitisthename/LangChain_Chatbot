@@ -64,9 +64,7 @@ Before you start, make sure you have the following installed:
 
 - **Never expose your API keys in your code.** Use environment variables to keep them secure.
 - Add your `.env` file to `.gitignore` to prevent it from being committed:
-  ```plaintext
-  .env
-  ```
+
   
 ## License
 ### This README provides a comprehensive guide for setting up and understanding the Q&A Chatbot project, catering to beginners and ensuring they can get the chatbot up and running smoothly.
